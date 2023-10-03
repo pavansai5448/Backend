@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tinting_Banco_D180_Bangalore
+build_property.RootNamespace = Tinting_Banco_D180_Bangalore
+build_property.ProjectDir = C:\Users\PAVAN\source\repos\Tinting-Banco&D180-Bangalore\Tinting-Banco&D180-Bangalore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PAVAN\source\repos\Tinting-Banco&D180-Bangalore\Tinting-Banco&D180-Bangalore
+build_property._RazorSourceGeneratorDebug = 

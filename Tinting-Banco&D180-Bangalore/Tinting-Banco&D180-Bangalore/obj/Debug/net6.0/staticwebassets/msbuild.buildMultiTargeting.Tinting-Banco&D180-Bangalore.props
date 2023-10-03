@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tinting-Banco&amp;D180-Bangalore.props" />
+</Project>
